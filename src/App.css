@@ -1,0 +1,9 @@
+#gradient-canvas {
+  position: fixed;
+  --gradient-color-1: #ea008c; 
+  --gradient-color-2: #0080e1; 
+  --gradient-color-3: #e0e400;  
+  --gradient-color-4: #00e372;
+  z-index: -1;
+  backdrop-filter: blur(25px);
+}
